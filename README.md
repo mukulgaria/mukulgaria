@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mukulgaria
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Front end web development
+- 👀 Thanks for visiting my profile.
+- 🌱 I’m a full stack engineer having knowledge on .net and angular as frontend.
 - 📫 How to reach me mukulgaria22199@gmail.com
 
 <!---
