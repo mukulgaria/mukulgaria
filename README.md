@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mukulgaria
 - 👀 Thanks for visiting my profile.
 - 🌱 I’m a full stack engineer having knowledge on .net and angular as frontend.
-- 📫 How to reach me mukulgaria22199@gmail.com
+- 📫 How to reach me mukulgaria@gmail.com
 
 <!---
 mukulgaria/mukulgaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
